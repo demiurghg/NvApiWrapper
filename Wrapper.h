@@ -162,7 +162,7 @@ namespace NvApiWrapper {
 	};
 
 
-	public ref class NvApiWrapper
+	public ref class NvApi
 	{
 	public:
 
